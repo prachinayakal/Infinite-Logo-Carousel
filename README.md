@@ -26,7 +26,7 @@ You can see the live demo of the Infinite Logo Carousel https://prachinayakal.gi
 
 To use the Infinite Logo Carousel in your project, simply follow these steps:
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/prachinayakal/Infinite-Logo-Carousel.git
 2. Include the `index.html` and `styles.css` files in your project.
 3. Customize the logos by replacing the images in the `logo/` directory with your own logos.
 4. Customize the styles in the `styles.css` file to match your project's design if needed.
