@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infinite Logo Carousel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="logos">
+        <div class="logos-slide">
+            <img src="./logo/reshot-icon-foursquare-TQ4W9MDN3L.svg">
+            <img src="./logo/reshot-icon-github-NY46M9DGFU.svg">
+            <img src="./logo/reshot-icon-google-U3H6LWBGDC.svg">
+            <img src="./logo/reshot-icon-linkedin-G7YJ8FXBKT.svg">
+            <img src="./logo/reshot-icon-pinterest-UKWGS8QJBT.svg">
+            <img src="./logo/reshot-icon-skype-UDZRQ54GST.svg">
+            <img src="./logo/reshot-icon-snapchat-URZ9KT2EDG.svg">
+            <img src="./logo/reshot-icon-whatsapp-UANBKF398R.svg">
+        </div>
+       
+    </div>
+    <script>
+        var copy = document.querySelector(".logos-slide").cloneNode(true);
+        document.querySelector('.logos').appendChild(copy);
+    </script>
+</body>
+</html>
