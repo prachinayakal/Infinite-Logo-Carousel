@@ -4,7 +4,7 @@ Welcome to the Infinite Logo Carousel project! This project is a simple implemen
 
 ## Demo
 
-You can see the live demo of the Infinite Logo Carousel [here](demo_url_here).
+You can see the live demo of the Infinite Logo Carousel https://prachinayakal.github.io/Infinite-Logo-Carousel/.
 
 ## Table of Contents
 
